@@ -12,9 +12,9 @@
 
 ## Conheça os principais comandos, funções e operadores do SQL!
 
-###	SQL CREATE 
-#       O comando CREATE, conforme seu nome indica, serve para criar o banco de dados e as tabelas que ele contém.
-#       A instrução usada para isso é bem simples:
+##	SQL CREATE 
+###      O comando CREATE, conforme seu nome indica, serve para criar o banco de dados e as tabelas que ele contém.
+###       A instrução usada para isso é bem simples:
 #
 ####	CREATE DATABASE empresa;
 #
