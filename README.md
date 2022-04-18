@@ -19,7 +19,11 @@
 ####	
 							       
 <p align="center">
-												  CREATE DATABASE empresa;
+												  CREATE DATABASE nome_do_bancodeDados;
+</p>
+		 
+<p align="center">
+												  CREATE TABLE nome_da_tabela;
 </p>
 
 #
