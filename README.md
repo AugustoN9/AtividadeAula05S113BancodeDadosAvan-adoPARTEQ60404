@@ -18,7 +18,7 @@
 #
 ####	
 							       
-							       <p align="left" font-style="italic">
+							       <p align="left">
 												  CREATE DATABASE empresa;
 								</p>
 #
