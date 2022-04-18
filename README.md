@@ -18,9 +18,10 @@
 #
 ####	
 							       
-							       <p align="center">
+<p align="center">
 												  CREATE DATABASE empresa;
-								</p>
+</p>
+
 #
 #							       
 #
