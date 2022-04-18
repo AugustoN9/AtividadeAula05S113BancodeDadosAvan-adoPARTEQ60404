@@ -17,7 +17,10 @@
 ###       A instrução usada para isso é bem simples:
 #
 ####	
-							       <p align="left" font-style="italic">CREATE DATABASE empresa;</p>
+							       
+							       <p align="left" font-style="italic">
+												  CREATE DATABASE empresa;
+								</p>
 #
 #							       
 #
