@@ -16,7 +16,8 @@
 ###      O comando CREATE, conforme seu nome indica, serve para criar o banco de dados e as tabelas que ele contém.
 ###       A instrução usada para isso é bem simples:
 #
-							       ####	<p align="left" font-style="italic">CREATE DATABASE empresa;</p>
+####	
+							       <p align="left" font-style="italic">CREATE DATABASE empresa;</p>
 #
 #							       
 #
